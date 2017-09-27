@@ -2,5 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-h2 {font-weight: 300}
-container {margin: 200px 50px}
