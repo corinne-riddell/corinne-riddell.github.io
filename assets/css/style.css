@@ -3,4 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.container {margin: 0 200}
+div.container {
+    margin-left: 200px;
+    margin-right: 200px;
+}
