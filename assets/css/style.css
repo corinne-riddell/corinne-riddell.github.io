@@ -2,7 +2,4 @@
 ---
 
 @import "{{ site.theme }}";
-div.container {
-    margin-left: 200px;
-    margin-right: 200px;
-}
+.container{margin: 200px 50px}
