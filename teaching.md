@@ -2,10 +2,9 @@
 layout: default
 title: “Teaching Resources”
 ---
+## Resources for lectures and workshops
 
 I have developed and delivered numerous lectures to PhD and MSc epidemiology students and medical residents. I was a co-instructor of an undergraduate Statistics course during my Master’s degree at the University of British Columbia, and a teaching assistant for two Statistics courses during my Master’s and one Mathematics course during my Bachelor’s degree. I was awarded two prizes for teaching: the Statistical Department Graduate Teaching Assistant Award, and the Killam Graduate Teaching Assistant Award. 
-
-### Resources from lectures and workshops that I have given
 
 * **Dose response and trend analysis**
 	* [pdf slides](https://drive.google.com/open?id=0B0LpZ0kOzhDTV3Z2LW8yZzJEbFdaemxmUlFuVEFKUG93Ujg4), [pdf notes](https://drive.google.com/open?id=0B0LpZ0kOzhDTN2kyRnJnNS00aGNCTGZTX0t1QmVYNW1LM0hN), datasets for practice: [hispnlms.txt](https://drive.google.com/open?id=0B0LpZ0kOzhDTMU1DdWt0STRROElzTHZCNWxSQ2hKQk9obFU4), [mksp1.dta](https://drive.google.com/open?id=0B0LpZ0kOzhDTRzJjSVRSUHVTWWlqeklIbFc3Nnl3b0lnd013) 
