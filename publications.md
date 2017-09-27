@@ -20,6 +20,10 @@ title: "Publications"
 
 ### Obstetrical Care 
 
+* **Inter-institutional variation in use of cesarean delivery for labour dystocia: a population-based cohort study** ([paper](https://www.ncbi.nlm.nih.gov/pubmed/28916125))
+
+  * Using birth registry data from three Canadian provinces, we examined the variation in cesarean delivery rates for labour dystocia -- the most common indication for cesarean delivery during labour among low-risk women. Because hospitals vary in the types of patients they see and the services they can offer, we performed adjustments for maternal- and hospital- factors to enable fairer comparisons. Substantial variation remained and may suggest that reasonable decreases to cesarean delivery rates can be made.
+
 * **Cervical dilation at time of cesarean delivery in nulliparous women: a population-based cohort study** ([paper](https://www.ncbi.nlm.nih.gov/pubmed/27561206))
 
   * Here, we describe contemporary practice patterns -- at what cervical dilations are cesarean deliveries performed? How much does this vary across hospitals? Do these practices align with clinical guidelines?
@@ -36,10 +40,6 @@ title: "Publications"
 * **Effect of uterine rupture on a hospital's future rate of vaginal birth after cesarean delivery** ([paper](http://www.ncbi.nlm.nih.gov/pubmed/25415169))
 
   * Using the US Nationwide Inpatient Sample, I study how the occurrence of a severe uterine rupture affects clinical practice. Specifically, I explore whether this event leads to more cesarean deliveries and estimate how long the effect lasts.
-
-
-* **Inter-institutional variation in use of cesarean delivery for labour dystocia: a population-based cohort study.** (forthcoming)
-
 
 * **Contributing author**. Society of Obstetricians and Gynaecologists of Canada Clinical Practice Guideline on Management of Labour. **[Invited author contribution]**
 
