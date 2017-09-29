@@ -11,8 +11,9 @@ I have created web applications to aid epidemiologists in performing calculation
   <div>
     <div><img src="e-value-calc.png" width = 20%>
     </div>
-    <div markdown="1">* Calculate the e-value for relative measures, as introduced by [Vanderweele and Ding](https://www.ncbi.nlm.nih.gov/pubmed/?term=vanderweele+ding+e-value).
-  * [Github repo](https://github.com/corinne-riddell/EValue)
+    <div markdown="1">
+    * Calculate the e-value for relative measures, as introduced by [Vanderweele and Ding](https://www.ncbi.nlm.nih.gov/pubmed/?term=vanderweele+ding+e-value).
+    * [Github repo](https://github.com/corinne-riddell/EValue)
     </div>
   </div>
   
