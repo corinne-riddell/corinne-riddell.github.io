@@ -9,9 +9,9 @@ I have created web applications to aid epidemiologists in performing calculation
 
 **[E-value calculator](https://corinne-riddell.shinyapps.io/e-value-calculator/)**
   <div>
-    <div><img src="e-value-calc.png" width = 20% />
+    <div><img src="e-value-calc.png" width = 20%>
     </div>
-    <div>* Calculate the e-value for relative measures, as introduced by [Vanderweele and Ding](https://www.ncbi.nlm.nih.gov/pubmed/?term=vanderweele+ding+e-value).
+    <div markdown="1">* Calculate the e-value for relative measures, as introduced by [Vanderweele and Ding](https://www.ncbi.nlm.nih.gov/pubmed/?term=vanderweele+ding+e-value).
   * [Github repo](https://github.com/corinne-riddell/EValue)
     </div>
   </div>
