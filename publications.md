@@ -17,7 +17,7 @@ title: "Publications"
 * **Differences in obstetric care among nulliparous First Nations and non-First Nations women in British Columbia, Canada** ([paper](http://www.cmaj.ca/content/early/2015/11/23/cmaj.150223.abstract); [Global news](http://globalnews.ca/news/2313389/first-nations-women-in-bc-do-not-receive-the-same-level-of-obstetric-care-study/))
 
   * We compared indicators of obstetric care quality and the use of obstetric interventions between First Nations and non-First Nations mothers in British Columbia, Canada. We found that First Nations mothers were less likely to receive care, such as an early ultrasound, or receive obstetrical interventions, including epidural, and cesarean delivery.
-
+ 
 ### Obstetrical Care 
 
 * **Inter-institutional variation in use of cesarean delivery for labour dystocia: a population-based cohort study** ([paper](https://www.ncbi.nlm.nih.gov/pubmed/28916125))
@@ -54,6 +54,8 @@ title: "Publications"
   * This report was submitted as my final project in Stat530, "Bayesian Analysis and Decision-Making". 
 
 ### Misc.
+
+* **Drug overdose mortality by US State, 1979-2015** ([unpublished graphics](http://rpubs.com/corinne-riddell/283316))
 
 * **Evaluation of safety monitoring guidelines based on MRI lesion activity in multiple sclerosis** ([paper](http://www.ncbi.nlm.nih.gov/pubmed/22094474))
 
