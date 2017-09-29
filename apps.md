@@ -8,6 +8,7 @@ title: “Web applications and teaching tools”
 I have created web applications to aid epidemiologists in performing calculations and teach epidemiologic concepts.
 
 **[E-value calculator](https://corinne-riddell.shinyapps.io/e-value-calculator/)**
+  
   <div>
     <div><img src="e-value-calc.png" width = 20%>
     </div>
