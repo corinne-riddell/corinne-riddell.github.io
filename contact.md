@@ -1,4 +1,4 @@
-## Corinne Riddell.	social epidemiologist + R Shiny developer.
+## Corinne Riddell.	Social and Perinatal Epidemiologist.
 
 - Follow me on [Twitter](https://twitter.com/datavisitor).
 
