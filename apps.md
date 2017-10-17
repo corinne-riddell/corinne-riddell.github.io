@@ -1,6 +1,6 @@
 ---
 layout: default
-title: “Web applications and teaching tools”
+title: Web applications and teaching tools
 ---
 
 <h2>Web applications and teaching tools</h2>
@@ -20,7 +20,7 @@ title: “Web applications and teaching tools”
  <ul>
   <li>
     Calculate the e-value for relative measures, as introduced by 
-   [Vanderweele and Ding](https://www.ncbi.nlm.nih.gov/pubmed/?term=vanderweele+ding+e-value).
+    <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=vanderweele+ding+e-value">Vanderweele and Ding</a>
   </li>
   <li>
    <a href="https://github.com/corinne-riddell/EValue">Github repo</a>
