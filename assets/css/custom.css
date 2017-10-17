@@ -7,11 +7,29 @@ h2 {
 }
 
 .app-section {
-  display: inline-block;
+  display: block;
+  vertical-align: top;
+  margin-bottom: 80px;
+}
+
+.app-image {
+  vertical-align: top; 
+  max-width: 30%;
 }
 
 .app-image > img {
-  max-width: 300px;  
+  max-width: 200px;
+  border: 1px solid #1e6bb8;
+  padding: 2px;
+}
+
+.app-blurb {
+  max-width: 60%;
+  width: 60%;
+  vertical-align: top;
+  margin-left: 5%;
+  padding-left: 2%;
+  border-left: 4px solid #1e6bb8;
 }
 
 @media only screen and (max-width: 500px) {
