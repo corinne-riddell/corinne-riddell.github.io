@@ -10,7 +10,7 @@ h2 {
   display: inline-block;
 }
 
-.app-image {
+.app-image > img {
   max-width: 300px;  
 }
 
