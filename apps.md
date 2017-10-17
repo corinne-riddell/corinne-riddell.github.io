@@ -3,13 +3,32 @@ layout: default
 title: “Web applications and teaching tools”
 ---
 
-## Web applications and teaching tools
+<h2>Web applications and teaching tools</h2>
 
-I have created web applications to aid epidemiologists in performing calculations and teach epidemiologic concepts.
+<p>I have created web applications to aid epidemiologists in performing calculations and teach epidemiologic concepts.</p>
 
-**[E-value calculator](https://corinne-riddell.shinyapps.io/e-value-calculator/)**
-  * Calculate the e-value for relative measures, as introduced by [Vanderweele and Ding](https://www.ncbi.nlm.nih.gov/pubmed/?term=vanderweele+ding+e-value).
-  * [Github repo](https://github.com/corinne-riddell/EValue)
+<div class="app-section">
+
+<div class="app-image">
+ <img src="e-value-thumbnail.png">
+</div>
+
+<div class="app-blurb">
+ <p>  
+  <b><a href="https://corinne-riddell.shinyapps.io/e-value-calculator/">E-value calculator</a></b>
+ </p>
+ <ul>
+  <li>
+    Calculate the e-value for relative measures, as introduced by 
+   [Vanderweele and Ding](https://www.ncbi.nlm.nih.gov/pubmed/?term=vanderweele+ding+e-value).
+  </li>
+  <li>
+   <a href="https://github.com/corinne-riddell/EValue">Github repo</a>
+  </li>
+ </ul>
+</div>
+
+</div>
 
 **[Sample size calculator for panel studies](https://corinne-riddell.shinyapps.io/mcgilleboh-samplesizecalculator/)**
   * Calculate the minimal sample size when you have panel data and a continuous outcome
