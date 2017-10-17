@@ -15,6 +15,7 @@ h2 {
 .app-image {
   vertical-align: top; 
   max-width: 30%;
+  display: inline-block;
 }
 
 .app-image > img {
@@ -30,6 +31,7 @@ h2 {
   margin-left: 5%;
   padding-left: 2%;
   border-left: 4px solid #1e6bb8;
+  display: inline-block;
 }
 
 @media only screen and (max-width: 500px) {
