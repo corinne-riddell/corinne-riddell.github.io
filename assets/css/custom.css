@@ -22,7 +22,7 @@ h3 {
   display: inline-block;
 }
 
-.app-image img {
+.app-image > a > img {
   max-height: 200px;
   border: 1px solid #1e6bb8;
   padding: 2px;
