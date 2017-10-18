@@ -34,7 +34,7 @@ h3 {
   vertical-align: top;
   margin-left: 5%;
   padding-left: 2%;
-  border-left: 4px solid #1e6bb8;
+  /* border-left: 4px solid #1e6bb8; */
   display: inline-block;
   height: 200px;
 }
@@ -50,10 +50,5 @@ h3 {
     }
     .app-image {
         display: block;
-        width: 100%;
-        max-width: 100%;
-    } 
-    .app-image > img {
-        max-height: 100%;  
     }
 }
