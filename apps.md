@@ -7,6 +7,31 @@ title: Web applications and teaching tools
 
 <p>I have created web applications to aid epidemiologists in performing calculations and teaching epidemiologic concepts.</p>
 
+<h3><a href="https://corinne-riddell.shinyapps.io/mcgilleboh-samplesizecalculator/">Sample size calculator for panel studies</a></h3>
+
+<div class="app-section">
+
+  <div class="app-image">
+   <a href="https://corinne-riddell.shinyapps.io/mcgilleboh-samplesizecalculator/"><img src="panel-sample-size.gif"></a>
+  </div>
+  
+  <div class="app-blurb">
+   <ul>
+    <li> Calculate the minimal sample size when you have panel data and a continuous outcome
+    </li>
+    <li>
+      Accompanies the paper 
+     <a href="https://www.ncbi.nlm.nih.gov/pubmed/28957035">Sample Size Estimation for Random-effects Models: Balancing Precision and Feasibility in Panel Studies</a>
+     in <i>Epidemiology</i> by Scott Weichenthal et al. 
+    </li>
+    <li>
+     <a href="https://github.com/corinne-riddell/SampleSizeCalculator">Github repo</a>
+    </li>
+   </ul>
+  </div>
+  
+</div> 
+
 <h3><a href="https://corinne-riddell.shinyapps.io/e-value-calculator/">E-value calculator</a></h3>
 
 <div class="app-section">
@@ -28,32 +53,6 @@ title: Web applications and teaching tools
   </div>
   
 </div>
-
-<h3><a href="https://corinne-riddell.shinyapps.io/mcgilleboh-samplesizecalculator/">Sample size calculator for panel studies</a></h3>
-
-<div class="app-section">
-
-  <div class="app-image">
-   <img src="panel-sample-size.gif">
-  </div>
-  
-  <div class="app-blurb">
-   <ul>
-    <li> Calculate the minimal sample size when you have panel data and a continuous outcome
-    </li>
-    <li>
-      Accompanies the paper 
-     <a href="https://www.ncbi.nlm.nih.gov/pubmed/28957035">Sample Size Estimation for Random-effects Models: Balancing Precision and Feasibility in Panel Studies</a>
-     in <i>Epidemiology</i> by Scott Weichenthal et al. 
-    </li>
-    <li>
-     <a href="https://github.com/corinne-riddell/SampleSizeCalculator">Github repo</a>
-    </li>
-   </ul>
-  </div>
-  
-</div> 
-
 
 **[The misleading odds ratio](https://drive.google.com/open?id=0B0LpZ0kOzhDTNE9JMXlKV3BGaFhQZEw1VFdsb3ZrZThXZWg0)**
   * This spreadsheet demonstrates how the average risk difference is the only incident measure of association to correctly estimate a measure of average causal effect (under no assumptions).
