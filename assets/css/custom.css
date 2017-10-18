@@ -2,6 +2,10 @@ h2 {
   font-weight: 300;
 }
 
+h3 {
+  color: #1e6bb8;
+}
+
 .container {
   margin: 50px 200px;
 }
