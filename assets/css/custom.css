@@ -49,4 +49,7 @@ h2 {
         width: 100%;
         max-width: 100%;
     } 
+    .app-image > img {
+        max-height: 100%;  
+    }
 }
