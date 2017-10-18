@@ -51,4 +51,10 @@ h3 {
     .app-image {
         display: block;
     }
+    margin-left {
+        0;
+    }
+    padding-left{
+        0;
+    }
 }
