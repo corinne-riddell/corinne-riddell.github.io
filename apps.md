@@ -5,7 +5,7 @@ title: Web applications and teaching tools
 
 <h2>Web applications and teaching tools</h2>
 
-<p>I have created web applications to aid epidemiologists in performing calculations and teach epidemiologic concepts.</p>
+<p>I have created web applications to aid epidemiologists in performing calculations and teaching epidemiologic concepts.</p>
 
 <div class="app-section">
  
