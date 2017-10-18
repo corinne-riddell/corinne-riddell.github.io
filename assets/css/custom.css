@@ -43,8 +43,12 @@ h2 {
 @media only screen and (max-width: 950px) {
     .app-blurb {
         display: block;
+        width: 100%;
+        max-width: 100%;
     }
     .app-image {
-        display: block;  
+        display: block;
+        width: 100%;
+        max-width: 100%;
     } 
 }
