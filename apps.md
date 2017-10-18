@@ -32,6 +32,8 @@ title: Web applications and teaching tools
   
 </div> 
 
+<hr>
+
 <h3><a href="https://corinne-riddell.shinyapps.io/e-value-calculator/">E-value calculator</a></h3>
 
 <div class="app-section">
@@ -53,6 +55,8 @@ title: Web applications and teaching tools
   </div>
   
 </div>
+
+<hr>
 
 **[The misleading odds ratio](https://drive.google.com/open?id=0B0LpZ0kOzhDTNE9JMXlKV3BGaFhQZEw1VFdsb3ZrZThXZWg0)**
   * This spreadsheet demonstrates how the average risk difference is the only incident measure of association to correctly estimate a measure of average causal effect (under no assumptions).
