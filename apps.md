@@ -73,7 +73,7 @@ title: Web applications and teaching tools
     <li>This spreadsheet demonstrates how the average risk difference is the only incident measure of association to correctly estimate a measure of average causal effect (under no assumptions).
     </li>
     <li>Facilitates the classic epidemiology reading 
-    <a href="http://www.epidemiology.ch/history/PDF%20bg/Greenland%20S%201987%20interpretation%20and%20choice%20of%20effect%20measures.pdf>
+    <a href="http://www.epidemiology.ch/history/PDF%20bg/Greenland%20S%201987%20interpretation%20and%20choice%20of%20effect%20measures.pdf">
     Interpretation and choice of effect measures in epidemiologic analyses</a> by Sander Greenland (1987).
     </li>
    </ul>
