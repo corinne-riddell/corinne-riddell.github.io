@@ -42,7 +42,9 @@ title: Web applications and teaching tools
     <li> Calculate the minimal sample size when you have panel data and a continuous outcome
     </li>
     <li>
-      Accompanies a forthcoming paper in <b>Epidemiology</b> by Scott Weichenthal et al. 
+      Accompanies the paper 
+     <a href="https://www.ncbi.nlm.nih.gov/pubmed/28957035">Sample Size Estimation for Random-effects Models: Balancing Precision and Feasibility in Panel Studies</a>
+     in <i>Epidemiology</i> by Scott Weichenthal et al. 
     </li>
     <li>
      <a href="https://github.com/corinne-riddell/SampleSizeCalculator">Github repo</a>
