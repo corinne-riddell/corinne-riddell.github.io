@@ -29,10 +29,29 @@ title: Web applications and teaching tools
   
 </div>
 
-**[Sample size calculator for panel studies](https://corinne-riddell.shinyapps.io/mcgilleboh-samplesizecalculator/)**
-  * Calculate the minimal sample size when you have panel data and a continuous outcome
-  * Accompanies a forthcoming paper in *Epidemiology* by Scott Weichenthal et al.
-  * [Github repo](https://github.com/corinne-riddell/SampleSizeCalculator)
+<h3><a href="https://corinne-riddell.shinyapps.io/mcgilleboh-samplesizecalculator/">Sample size calculator for panel studies</a></h3>
+
+<div class="app-section">
+
+  <div class="app-image">
+   <img src="panel-sample-size.gif">
+  </div>
+  
+  <div class="app-blurb">
+   <ul>
+    <li> Calculate the minimal sample size when you have panel data and a continuous outcome
+    </li>
+    <li>
+      Accompanies a forthcoming paper in <b>Epidemiology</b> by Scott Weichenthal et al. 
+    </li>
+    <li>
+     <a href="https://github.com/corinne-riddell/SampleSizeCalculator">Github repo</a>
+    </li>
+   </ul>
+  </div>
+  
+</div> 
+
 
 **[The misleading odds ratio](https://drive.google.com/open?id=0B0LpZ0kOzhDTNE9JMXlKV3BGaFhQZEw1VFdsb3ZrZThXZWg0)**
   * This spreadsheet demonstrates how the average risk difference is the only incident measure of association to correctly estimate a measure of average causal effect (under no assumptions).
