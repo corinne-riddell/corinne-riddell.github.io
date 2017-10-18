@@ -12,7 +12,7 @@ title: Web applications and teaching tools
 <div class="app-section">
  
   <div class="app-image">
-   <img src="e-value-thumbnail.png">
+   <a href="https://corinne-riddell.shinyapps.io/e-value-calculator/"><img src="e-value-thumbnail.png"></a>
   </div>
 
   <div class="app-blurb">
