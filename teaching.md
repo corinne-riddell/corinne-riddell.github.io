@@ -7,8 +7,8 @@ title: “Teaching Resources”
 I have developed and delivered numerous lectures to PhD and MSc epidemiology students and medical residents. I was a co-instructor of an undergraduate Statistics course during my Master’s degree at the University of British Columbia, and a teaching assistant for two Statistics courses during my Master’s and one Mathematics course during my Bachelor’s degree. I was awarded two prizes for teaching: the Statistical Department Graduate Teaching Assistant Award, and the Killam Graduate Teaching Assistant Award. 
 
 * **Dose response and trend analysis**
-	* [pdf slides](https://drive.google.com/open?id=0B0LpZ0kOzhDTV3Z2LW8yZzJEbFdaemxmUlFuVEFKUG93Ujg4), [pdf notes](https://drive.google.com/open?id=0B0LpZ0kOzhDTN2kyRnJnNS00aGNCTGZTX0t1QmVYNW1LM0hN), datasets for practice: [hispnlms.txt](https://drive.google.com/open?id=0B0LpZ0kOzhDTMU1DdWt0STRROElzTHZCNWxSQ2hKQk9obFU4), [mksp1.dta](https://drive.google.com/open?id=0B0LpZ0kOzhDTRzJjSVRSUHVTWWlqeklIbFc3Nnl3b0lnd013) 
-	* Guest Lecturer, EPIB604 (McGill): Epidemiologic Analysis: 1 Lecture on Dose Response and Trend Analysis. October 31, 2016.
+	* [pdf slides](https://drive.google.com/open?id=0B0LpZ0kOzhDTNi0xendYb043NzA), [pdf notes](https://drive.google.com/open?id=0B0LpZ0kOzhDTR0pleFlJS3pMMzg), datasets for practice: [hispnlms.txt](https://drive.google.com/open?id=0B0LpZ0kOzhDTMU1DdWt0STRROElzTHZCNWxSQ2hKQk9obFU4), [mksp1.dta](https://drive.google.com/open?id=0B0LpZ0kOzhDTRzJjSVRSUHVTWWlqeklIbFc3Nnl3b0lnd013) 
+	* Guest Lecturer, EPIB704 (McGill): Epidemiologic Analysis: Annual Lecture on Dose Response and Trend Analysis. Fall 2012--2017.
 
 * **Some programming tips, the bootstrap, and simulation studies**
 	* [html slides](https://drive.google.com/open?id=0B0LpZ0kOzhDTZUdyaHlTb2hsSmxNMndNdllDaWxLRHVkSlJV), [Rmd file](https://drive.google.com/open?id=0B0LpZ0kOzhDTRE1MdlVHMUdfTmluR3lfNkRXcl9qRkRkWlA4)
@@ -16,11 +16,11 @@ I have developed and delivered numerous lectures to PhD and MSc epidemiology stu
 
 * **Measures of effect and measures of association**
 	* [pdf slides](https://drive.google.com/open?id=0B0LpZ0kOzhDTb052aHlBZFJpd1p3V2FUa1Jtcl92dE83M1Jn), [pdf notes](https://drive.google.com/open?id=0B0LpZ0kOzhDTeHFyV2FKdnQ0UFNhWUYyalZlcWU1ZnFEZm9Z), Don't trust the Odds Ratio: [Excel#1](https://drive.google.com/open?id=0B0LpZ0kOzhDTNE9JMXlKV3BGaFhQZEw1VFdsb3ZrZThXZWg0), [Excel#2](https://drive.google.com/open?id=0B0LpZ0kOzhDTSDUwSWxULXRwcjA)
-	* Guest Lecturer, EPIB604 (McGill): Epidemiologic Analysis: 1 Lecture on Measures of effect and measures of association. September 7, 2016.
+	* Guest Lecturer, EPIB704 (McGill): Epidemiologic Analysis: Annual Lecture on Measures of effect and measures of association. Fall 2013--2017.
 
 * **Measures of occurrence**
 	* [pdf slides](https://drive.google.com/open?id=0B0LpZ0kOzhDTX29peG45UXZCaVk), [pdf notes](https://drive.google.com/open?id=0B0LpZ0kOzhDTb0FMTEhqdDl3RU0)
-	* Guest Lecturer, EPIB604 (McGill): Epidemiologic Analysis: 1 Lecture on Measures of occurrence. September 2, 2016.
+	* Guest Lecturer, EPIB604 (McGill): Epidemiologic Analysis: Annual Lecture on Measures of occurrence. Fall 2013-2016.
 
 * **Multiple imputation using chained equations**
 	* [pptx slides](https://drive.google.com/open?id=0B0LpZ0kOzhDTdmNFdGFYRkNUb0lYcHVWTm92b25kejhxd1RF)
