@@ -6,6 +6,10 @@ title: “Teaching Resources”
 
 I have developed and delivered numerous lectures to PhD and MSc epidemiology students and medical residents. I was a co-instructor of an undergraduate Statistics course during my Master’s degree at the University of British Columbia, and a teaching assistant for two Statistics courses during my Master’s and one Mathematics course during my Bachelor’s degree. I was awarded two prizes for teaching: the Statistical Department Graduate Teaching Assistant Award, and the Killam Graduate Teaching Assistant Award. 
 
+* **Data manipulation and data visualization in R, for beginners**
+	* [R script](), [sample dataset #1](https://drive.google.com/open?id=1YxmRsdQEXqBKKQ2aJ8v0B4c4WDNfkeoV), [sample dataset #2](https://drive.google.com/open?id=1jDxUQiDkbyTAP1ONnFXY4fRPH2wDB5Zr), [Technical setup instructions](https://drive.google.com/open?id=1DK6CUfpQKAxPNPL4nq5JmgJs4epNxdWi)
+	* Guest Lecturer, EPIB602 (McGill): Foundations of Population Health. Fall 2017.
+
 * **Dose response and trend analysis**
 	* [pdf slides](https://drive.google.com/open?id=0B0LpZ0kOzhDTNi0xendYb043NzA), [pdf notes](https://drive.google.com/open?id=0B0LpZ0kOzhDTR0pleFlJS3pMMzg), datasets for practice: [hispnlms.txt](https://drive.google.com/open?id=0B0LpZ0kOzhDTMU1DdWt0STRROElzTHZCNWxSQ2hKQk9obFU4), [mksp1.dta](https://drive.google.com/open?id=0B0LpZ0kOzhDTRzJjSVRSUHVTWWlqeklIbFc3Nnl3b0lnd013) 
 	* Guest Lecturer, EPIB704 (McGill): Epidemiologic Analysis: Annual Lecture on Dose Response and Trend Analysis. Fall 2012--2017.
