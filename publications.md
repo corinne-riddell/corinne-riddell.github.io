@@ -5,6 +5,10 @@ title: "Publications"
 
 ### Racial/Ethnic Disparities Research
 
+* **Comparison of Rates of Firearm and Nonfirearm Homicide and Suicide in Black and White Non-Hispanic Men, by U.S. State** ([paper](http://annals.org/aim/fullarticle/2679556/comparison-rates-firearm-nonfirearm-homicide-suicide-black-white-non-hispanic); [CNN](https://www.cnn.com/2018/04/23/health/gun-deaths-in-men-by-state-study/index.html); [GitHub repo](https://github.com/corinne-riddell/InjuryDisparity))
+
+  * In this study we estimated the magnitude of inequalities in homicide and suicide between black and white men by US states and firearms use. We found that the black-white inequality in firearm homicide is highest in Missouri and the rustbelt states (Michigan, Illinois, Indiana, and Pennsylvania), while the white-black inequality in firearm suicide is highest in South and Western states (Mississippi, Nevada, Arkansas, New Mexico, Arizona, Alabama). 
+
 * **Trends in Differences in US Mortality Rates Between Black and White Infants** ([letter](http://jamanetwork.com/journals/jamapediatrics/fullarticle/2633490); [STAT news](https://www.statnews.com/2017/07/03/infant-mortality-black/?s_campaign=stat:rss); [LA times](http://www.latimes.com/science/sciencenow/la-sci-sn-infant-mortality-race-20170703-story.html); [Washington Times](http://www.washingtontimes.com/news/2017/jul/3/black-infant-mortality-rates-are-increasing-compar/?utm_source=RSS_Feed&utm_medium=RSS]Washington); [The Economist](https://www.economist.com/blogs/graphicdetail/2017/07/daily-chart-5?cid1=cust/ddnew/n/n/n/20170711n/owned/n/n/nwl/n/n/na/Daily_Dispatch/email&etear=dailydispatch))
 
   * In this study we investigated recent trends in the infant mortality rate for blacks and whites in the US and show that progress towards reducing the racial gap in infant mortality has stalled.
