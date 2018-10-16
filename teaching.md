@@ -2,9 +2,17 @@
 layout: default
 title: “Teaching Resources”
 ---
-## Resources for lectures and workshops
+## PH142: Introduction to Biostatistics for Public Health Majors 
 
-I have developed and delivered numerous lectures to PhD and MSc epidemiology students and medical residents. I was a co-instructor of an undergraduate Statistics course during my Master’s degree at the University of British Columbia, and a teaching assistant for two Statistics courses during my Master’s and one Mathematics course during my Bachelor’s degree. I was awarded two prizes for teaching: the Statistical Department Graduate Teaching Assistant Award, and the Killam Graduate Teaching Assistant Award. 
+Currently, I am the primary instructor for PH142, which has approximately 280 students in Fall 2019. I led a complete redevelopment of this course to include the following elements:
+
+* A complete integration of R and RStudio throughout lectures, labs, and discussion sections. Students (many with no previous coding experience) complete the majority of their assignments in R markdown and run RStudio on RStudio Cloud.
+* An immediate introduction to the tidyverse, including `dplyr` for data manipulation and `ggplot2` for data visualization, among other packages likes `readr` and `forcats`.
+* Students see and manipulate data sets often. As much as possible, data are chosen from published public health research findings so that students gain hands-on experience manipulating data and develop confidence applying their statistical skills.
+
+## Resources from past (non-PH142) lectures and workshops
+
+I have developed and delivered numerous lectures to PhD and MSc epidemiology students and medical residents at McGill University and the University of British Columbia during my graduate studies. I was a co-instructor of an undergraduate Statistics course during my Master’s degree at the University of British Columbia, and a teaching assistant for two Statistics courses during my Master’s and one Mathematics course during my Bachelor’s degree. I was awarded two prizes for teaching: the Statistical Department Graduate Teaching Assistant Award, and the Killam Graduate Teaching Assistant Award. 
 
 * **Data manipulation and data visualization in R, for beginners**
 	* [R script](https://drive.google.com/open?id=1Pqfxnz-BQihgA8T7TWr5RQFvNXg91r2E), [sample dataset #1](https://drive.google.com/open?id=1YxmRsdQEXqBKKQ2aJ8v0B4c4WDNfkeoV), [sample dataset #2](https://drive.google.com/open?id=1jDxUQiDkbyTAP1ONnFXY4fRPH2wDB5Zr), [technical setup instructions](https://drive.google.com/open?id=1DK6CUfpQKAxPNPL4nq5JmgJs4epNxdWi)
