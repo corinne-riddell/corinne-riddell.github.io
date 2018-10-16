@@ -4,4 +4,6 @@
 
 - See my code on [Github](https://github.com/corinne-riddell/).
 
-- Email me at corinne [dot] riddell [at] mail.mcgill.ca.
+- Email me at c [dot] riddell [at] berkeley.edu.
+
+- [Berkeley website](http://sph.berkeley.edu/corinne-riddell-phd)
