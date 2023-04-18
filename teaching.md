@@ -2,15 +2,28 @@
 layout: default
 title: “Teaching Resources”
 ---
+
+## PH252: Epidemiologic Analysis
+
+In Fall 2022, I co-instructed PH252 with Dr. Patrick Bradshaw. Thirty-six students were enrolled in this course, including mostly MPH and doctoral epidemiology students.
+
+## PH292: Biostatistics Seminar for MA Biostatistics Students
+
+Between Spring 2019 and Spring 2023, I have taught the MA biostatistics seminar. I developed this seminar course for the MA biostatistics students. The focus on this course is academic writing of thesis and peer-reviewed manuscripts for a statistical audience. This seminar focused on developing academic writing skills, and the peer review process including manuscript submission and review. Guest lectures were also invited to speak on literature reviews and statistical jobs in non-academic settings to prepare these students for the job market. 
+
 ## PH142: Introduction to Biostatistics for Public Health Majors 
 
-Currently, I am the primary instructor for PH142, which has approximately 280 students in Fall 2019. I led a complete redevelopment of this course to include the following elements:
+Between Fall 2018 and Fall 2021, I was the primary instructor for PH142, which had 245-345 students each semester. In 2018, I led a complete redevelopment of this course to include the following elements:
 
 * A complete integration of R and RStudio throughout lectures, labs, and discussion sections. Students (many with no previous coding experience) complete the majority of their assignments in R markdown and run RStudio on RStudio Cloud.
 * An immediate introduction to the tidyverse, including `dplyr` for data manipulation and `ggplot2` for data visualization, among other packages likes `readr` and `forcats`.
 * Students see and manipulate data sets often. As much as possible, data are chosen from published public health research findings so that students gain hands-on experience manipulating data and develop confidence applying their statistical skills.
 
-## Resources from past (non-PH142) lectures and workshops
+## PH241R: Categorical Data Analysis
+
+This course follows the flipped classroom model, with pre-recorded lectures and live discussion and lab sections. Both in residence and online Master’s of Public Health students are enrolled. I developed the discussion material for this course.
+
+## Resources from past lectures and workshops
 
 I have developed and delivered numerous lectures to PhD and MSc epidemiology students and medical residents at McGill University and the University of British Columbia during my graduate studies. I was a co-instructor of an undergraduate Statistics course during my Master’s degree at the University of British Columbia, and a teaching assistant for two Statistics courses during my Master’s and one Mathematics course during my Bachelor’s degree. I was awarded two prizes for teaching: the Statistical Department Graduate Teaching Assistant Award, and the Killam Graduate Teaching Assistant Award. 
 
